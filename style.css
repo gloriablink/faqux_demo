@@ -2,11 +2,11 @@
 	margin-bottom: 10px;
 }
 
-.is_app.content_type_clase_faqux_demo {
+.is_app.content_type_clase_faquxdemo {
 	padding-top: 0px;
 }
 
-.is_app.content_type_clase_faqux_demo:not(.offline-pc) .content-wrapper {
+.is_app.content_type_clase_faquxdemo:not(.offline-pc) .content-wrapper {
 	padding-top: 55px;
 }
 
@@ -19,13 +19,13 @@
 	top: 0px;
 }
 
-.content_type_clase_faqux_demo #actividad {
+.content_type_clase_faquxdemo #actividad {
 	margin-bottom: 0px;
 	-webkit-transform: none;
 	-webkit-transform-style: flat;
 }
 
-.content_type_clase_faqux_demo .slide-wrapper,
+.content_type_clase_faquxdemo .slide-wrapper,
 .class_slide .layout {
 	text-align: justify;
 	padding: 0px 97px 0px;
@@ -43,8 +43,8 @@
 	position: relative;
 }
 
-.content_type_clase_faqux_demo #actividad .content .header .title img,
-.content_type_clase_faqux_demo #actividad .content .header .chapter {
+.content_type_clase_faquxdemo #actividad .content .header .title img,
+.content_type_clase_faquxdemo #actividad .content .header .chapter {
 	display: none;
 }
 
@@ -57,7 +57,7 @@
 	background-color: #fff;
 }
 
-.content_type_clase_faqux_demo #actividad .content .header .title h3 {
+.content_type_clase_faquxdemo #actividad .content .header .title h3 {
 	font-size: 3.0rem;
 	margin-top: 0px;
 	margin-bottom: 0px;
@@ -68,19 +68,19 @@
 	padding-right: 20px;
 }
 
-.content_type_clase_faqux_demo #actividad .content .header .title h3 .index {
+.content_type_clase_faquxdemo #actividad .content .header .title h3 .index {
 	display: inline-block;
 	background-color: #EE7D11;
 	padding: 40px 5px 0px;
 	margin-right: 5px;
 }
 
-.content_type_clase_faqux_demo #actividad .texto_curso {
+.content_type_clase_faquxdemo #actividad .texto_curso {
 	font-size: 1.8rem;
 }
 
-.content_type_clase_faqux_demo #actividad .texto_curso li,
-.content_type_clase_faqux_demo #actividad .workspace ul li li {
+.content_type_clase_faquxdemo #actividad .texto_curso li,
+.content_type_clase_faquxdemo #actividad .workspace ul li li {
 	margin-bottom: 10px;
 }
 
@@ -254,7 +254,7 @@
 
 
 @media screen and (max-width: 768px) {
-	.content_type_clase_faqux_demo .slide-wrapper,
+	.content_type_clase_faquxdemo .slide-wrapper,
 	.class_slide .layout {
 		padding: 0px 20px 0px;
 	}
@@ -284,4 +284,3 @@
 	}
 
 }
-
