@@ -229,6 +229,10 @@
 	    color: green;
 	}
 
+.alert-info {
+    display: none;
+}
+
 
 	body {
     font: 100 15px 'Source Sans Pro',sans-serif;
@@ -282,6 +286,19 @@ a:focus {
     border: 1px solid #3ac62a;
     padding: 15px;
     text-align: center;
+}
+
+
+/*----------------------ICONO------------------------------------------*/
+
+.icon-mas {
+content: "+";
+border: 1px #3ac62a solid;
+color: #3ac62a;
+padding: 20px;
+position: absolute;
+border-radius: 100%;
+
 }
 
 /**/
