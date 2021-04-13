@@ -289,7 +289,21 @@ a:focus {
 }
 
 
-/*----------------------ICONO------------------------------------------*/
+/*----------------------ICONOS------------------------------------------*/
+
+.cke_contents .icon:before, 
+.item-container.icon:before {
+	content: "";
+	background-repeat: no-repeat;
+	-webkit-background-size: auto 100%;
+	   -moz-background-size: auto 100%;
+	     -o-background-size: auto 100%;
+	        background-size: auto 100%;
+	background-position: center center;
+	display: inline-block;
+	vertical-align: top;
+}
+
 
 .icon-mas:before {
     content: "+";
