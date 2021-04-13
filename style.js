@@ -11,10 +11,6 @@
 		parent: blink.theme.styles.basic.prototype,
 		bodyClassName: 'content_type_clase_faquxdemo',
 
-		toolbar: { name: 'editorial', items: ['Blink_faquxdemo_link'] },
-
-		extraPlugins: ['image2', 'blink_faquxdemo_link'],
-
 		ckEditorStyles: {
 			name: 'faquxdemo',
 			styles: [
