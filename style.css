@@ -305,7 +305,7 @@ a:focus {
 }
 
 
-.icon-mas:before {
+.item-container .icon-mas:before {
     content: "+";
     border: 1px #3ac62a solid;
     color: #3ac62a;
