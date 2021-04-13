@@ -229,6 +229,34 @@
 	    color: green;
 	}
 
+
+	body {
+    font: 100 15px 'Source Sans Pro',sans-serif;
+    line-height: 21px;
+    color: #414141;
+    background-color: #eee;
+}
+
+/*-------------------------------------ENLACES-----------------------------------*/
+
+a {
+    text-decoration: underline;
+    color: #3ac62a;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+a:hover, 
+a:active,
+a:focus {
+    outline: 0;
+    color: #3ac62a;
+    text-decoration: underline;
+    font-weight: 500;
+}
+
 /*------------------------------------ENFASIS-------------------------------------------------*/
 
 .bck-enfasis-rosa {
