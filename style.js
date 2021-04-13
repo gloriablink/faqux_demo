@@ -17,6 +17,12 @@
 				{ name: 'Encabezado', element: 'h4', attributes: { 'class': 'bck-encabezado' } },
 				{ name: 'Sub-Encabezado', element: 'p', attributes: { 'class': 'bck-sub-encabezado' } },
 
+				{ name: 'Enfasis rosa', element: 'span', attributes: { 'class': 'bck-enfasis-rosa' } },
+				{ name: 'Enfasis azul', element: 'span', attributes: { 'class': 'bck-enfasis-azul' } },
+				{ name: 'Enfasis verde', element: 'span', attributes: { 'class': 'bck-enfasis-verde' } },
+				{ name: 'Enfasis naranja', element: 'span', attributes: { 'class': 'bck-enfasis-naranja' } },
+				{ name: 'Enfasis morado', element: 'span', attributes: { 'class': 'bck-enfasis-morado' } },
+
 				{ name: 'Tabla centrada', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-center'} }
 			]
 		},
