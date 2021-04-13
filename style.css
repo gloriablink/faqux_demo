@@ -248,6 +248,14 @@
 }
 
 
+/*-------------------------------------------CAJAS--------------------------------------------------------*/
+
+.bck-box-1 {
+    border: 1px solid #3ac62a;
+    padding: 15px;
+    text-align: center;
+}
+
 /**/
 
 @media screen and (max-width: 1099px) {
