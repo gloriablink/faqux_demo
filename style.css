@@ -228,6 +228,26 @@
 	    margin: 3px;
 	    color: green;
 	}
+
+/*------------------------------------ENFASIS-------------------------------------------------*/
+
+.bck-enfasis-rosa {
+    color: #ff385a;
+}
+.bck-enfasis-azul {
+    color: #00d0f5;
+}
+.bck-enfasis-verde {
+    color: #3ac62a;
+}
+.bck-enfasis-naranja {
+    color: #ff9c25;
+}
+.bck-enfasis-morado {
+    color: #7868a4;
+}
+
+
 /**/
 
 @media screen and (max-width: 1099px) {
