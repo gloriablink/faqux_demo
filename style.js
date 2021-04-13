@@ -23,6 +23,8 @@
 				{ name: 'Enfasis naranja', element: 'span', attributes: { 'class': 'bck-enfasis-naranja' } },
 				{ name: 'Enfasis morado', element: 'span', attributes: { 'class': 'bck-enfasis-morado' } },
 
+				{ name: 'Caja 01', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
+
 				{ name: 'Tabla centrada', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-center'} }
 			]
 		},
