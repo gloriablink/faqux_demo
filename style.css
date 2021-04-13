@@ -291,6 +291,7 @@ a:focus {
 
 /*----------------------ICONOS------------------------------------------*/
 
+/*
 .cke_contents .icon:before, 
 .item-container.icon:before {
 	content: "";
@@ -304,17 +305,17 @@ a:focus {
 	vertical-align: top;
 }
 
+*/
+
 
 .item-container .icon-mas:before {
-    content: "+";
-    border: 1px #3ac62a solid;
-    color: #3ac62a;
+    content: "";
     position: absolute;
-    border-radius: 100%;
-    width: 25px;
-    height: 25px;
-    text-align: center;
-    font-size: 22px;
+    padding: 20px;
+    background-image: url(images/iconoplusfaqux.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 
 /**/
