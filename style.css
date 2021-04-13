@@ -291,14 +291,16 @@ a:focus {
 
 /*----------------------ICONO------------------------------------------*/
 
-.icon-mas {
-content: "+";
-border: 1px #3ac62a solid;
-color: #3ac62a;
-padding: 20px;
-position: absolute;
-border-radius: 100%;
-
+.icon-mas:before {
+    content: "+";
+    border: 1px #3ac62a solid;
+    color: #3ac62a;
+    position: absolute;
+    border-radius: 100%;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    font-size: 22px;
 }
 
 /**/
