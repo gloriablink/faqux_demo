@@ -15,7 +15,10 @@
 			name: 'faquxdemo',
 			styles: [
 				{ name: 'Encabezado', element: 'h4', attributes: { 'class': 'bck-encabezado' } },
+				{ name: 'Encabezado Puntos', element: 'h4', attributes: { 'class': 'bck-encabezado-puntosverdes' } },
 				{ name: 'Sub-Encabezado', element: 'p', attributes: { 'class': 'bck-sub-encabezado' } },
+
+
 
 				{ name: 'Enfasis rosa', element: 'span', attributes: { 'class': 'bck-enfasis-rosa' } },
 				{ name: 'Enfasis azul', element: 'span', attributes: { 'class': 'bck-enfasis-azul' } },
@@ -26,6 +29,7 @@
 				{ name: 'Caja 01', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
 
 				{ name: 'Icono Mas', element: 'span', attributes: { 'class': 'icon icon-mas' } },
+
 
 
 				{ name: 'Tabla centrada', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-center'} }
