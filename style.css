@@ -282,15 +282,18 @@ a:focus {
     color: #3ac62a;
     font-size: 22px;
     font-weight: 100;
+    padding-left: 50px;
 }
 
 .bck-encabezado-puntosverdes:before {
-	content: "";
-	padding: 20px;
-	position: absolute;
-	background-image: url(/images/puntos-verdes-faquxdemo.png);
-	background-repeat: no-repeat;
-	background-size: contain;
+    content: "";
+    padding: 10px;
+    position: absolute;
+    background-image: url(images/puntos-verdes-faquxdemo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: -30px;
+    margin-top: 5px;
 }
 
 /*------------------------------------ENFASIS-------------------------------------------------*/
