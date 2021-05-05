@@ -18,6 +18,8 @@
 				{ name: 'Encabezado Puntos', element: 'h4', attributes: { 'class': 'bck-encabezado-puntosverdes' } },
 				{ name: 'Sub-Encabezado', element: 'p', attributes: { 'class': 'bck-sub-encabezado' } },
 
+				{ name: 'Lista Desordenada 1', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-1' } },
+
 
 
 				{ name: 'Enfasis rosa', element: 'span', attributes: { 'class': 'bck-enfasis-rosa' } },
