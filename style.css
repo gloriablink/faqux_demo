@@ -310,9 +310,12 @@ a:focus {
 #actividad .popover-content .bck-ul-1 li,
 #actividad .content .workspace ul li .bck-ul-1 li {
 	padding-left: 40px;
-	position: relative;
-	list-style: none;
-	margin-bottom: 10px;
+    position: relative;
+    list-style: none;
+    margin-bottom: 10px;
+    color: #3ac62a;
+    font-size: 22px;
+    font-weight: 100;
 }
 
 #actividad .content .cke_contents .bck-ul-1 li:before,
@@ -320,15 +323,18 @@ a:focus {
 #actividad .popover-content ul.bck-ul-1 li:before,
 #actividad .content .workspace ul li ul.bck-ul-1 li:before {
 	content: "";
-    height: 6px;
-    width: 6px;
-    background-color: #333;
+    height: 20px;
+    width: 20px;
+    background-color: transparent;
     color: #333;
-    border-radius: 50%;
+    border-radius: 0;
+    padding: 10px;
     position: absolute;
-    margin-top: .6em;
-    margin-left: 6px;
-
+    background-image: url(images/puntos-verdes-faquxdemo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: -30px;
+    margin-top: 5px;
 }
 
 
