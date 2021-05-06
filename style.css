@@ -166,6 +166,14 @@
     top: 20px;
 }
 
+#actividad .slide_content_type_1 .pregunta .texto_curso {
+    font-size: 1.6rem;
+}
+
+.content_type_clase_faquxdemo #actividad .texto_curso {
+    font-size: 1.6rem;
+}
+
 /* CKEDITOR */
 	#actividad .content img{
 		margin-top: 10px;
@@ -235,7 +243,7 @@
 
 
 	body {
-    font: 100 15px 'Source Sans Pro',sans-serif;
+    font: 100 16px 'Source Sans Pro',sans-serif;
     line-height: 21px;
     color: #414141;
     background-color: #eee;
@@ -353,6 +361,13 @@ a:focus {
 }
 .bck-enfasis-morado {
     color: #7868a4;
+}
+
+.bck-enfasis-naranja-borde {
+    color: #ff9c25;
+    border: 1px #ff9c25 solid;
+    padding: 2px 5px;
+    font-weight: 400;
 }
 
 
