@@ -18,8 +18,6 @@
 				{ name: 'Encabezado Puntos', element: 'h4', attributes: { 'class': 'bck-encabezado-puntosverdes' } },
 				{ name: 'Sub-Encabezado', element: 'p', attributes: { 'class': 'bck-sub-encabezado' } },
 
-				{ name: 'Lista Desordenada 1', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-1' } },
-
 
 
 				{ name: 'Enfasis rosa', element: 'span', attributes: { 'class': 'bck-enfasis-rosa' } },
@@ -27,6 +25,8 @@
 				{ name: 'Enfasis verde', element: 'span', attributes: { 'class': 'bck-enfasis-verde' } },
 				{ name: 'Enfasis naranja', element: 'span', attributes: { 'class': 'bck-enfasis-naranja' } },
 				{ name: 'Enfasis morado', element: 'span', attributes: { 'class': 'bck-enfasis-morado' } },
+				{ name: 'Enfasis naranja-borde', element: 'span', attributes: { 'class': 'bck-enfasis-naranja-borde' } },
+				{ name: 'Enfasis + verde', element: 'span', attributes: { 'class': 'bck-enfasis-masverde' } },
 
 				{ name: 'Caja 01', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
 
