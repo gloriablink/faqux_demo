@@ -402,7 +402,7 @@ a:focus {
 .item-container .icon-mas:before {
     content: "";
     position: absolute;
-    padding: 20px;
+    padding: 12px;
     background-image: url(images/iconoplusfaqux.png);
     background-repeat: no-repeat;
     background-size: contain;
