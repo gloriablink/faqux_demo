@@ -25,10 +25,12 @@
 				{ name: 'Enfasis morado', element: 'span', attributes: { 'class': 'bck-enfasis-morado' } },
 				{ name: 'Enfasis naranja-borde', element: 'span', attributes: { 'class': 'bck-enfasis-naranja-borde' } },
 				{ name: 'Enfasis + verde', element: 'span', attributes: { 'class': 'bck-enfasis-masverde' } },
+				{ name: 'Enfasis verde negrita', element: 'span', attributes: { 'class': 'bck-enfasis-verdenegrita' } },
 
 				{ name: 'Caja 01', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
 
 				{ name: 'Icono +', element: 'span', attributes: { 'class': 'icon icon-mas' } },
+				{ name: 'Icono logo blink', element: 'span', attributes: { 'class': 'icon icon-logoblink' } },
 
 				{ name: 'Tabla centrada', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-center'} }
 			]
