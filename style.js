@@ -62,9 +62,6 @@
 			})
 		},
 
-		configEditor: function (editor) {
-			editor.dtd.$editable['span'] = 1;
-		},
 
 		//BK-15873 Quitamos la funcion getEditorStyles para que la herede de basic
 	};
