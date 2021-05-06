@@ -30,6 +30,8 @@
 
 				{ name: 'Caja 01', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
 
+				{ name: 'Icono +', element: 'span', attributes: { 'class': 'icon icon-mas' } },
+
 
 				{ name: 'Tabla centrada', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-center'} }
 			]
@@ -50,6 +52,11 @@
 				}
 			});
 		},
+
+		configEditor: function (editor) {
+			editor.dtd.$removeEmpty['span'] = false;
+		},
+
 
 		addActivityTitle: function () {
 			if (!blink.courseInfo || !blink.courseInfo.unit) return;
