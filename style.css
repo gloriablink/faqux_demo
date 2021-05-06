@@ -370,6 +370,14 @@ a:focus {
     font-weight: 400;
 }
 
+.bck-enfasis-masverde {
+    color: #3ac62a;
+    border: 2px #3ac62a solid;
+    border-radius: 100%;
+    padding: 0px 6px;
+    font-size: 18px;
+    font-weight: 800;
+}
 
 /*-------------------------------------------CAJAS--------------------------------------------------------*/
 
