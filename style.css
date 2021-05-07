@@ -53,8 +53,8 @@
 }
 
 #actividad .content .header .title {
-	border-bottom: 7px #74d320 solid;
-	background-color: #fff;
+	border-bottom: none;
+	background-color: transparent;
 }
 
 .content_type_clase_faquxdemo #actividad .content .header .title h3 {
@@ -192,19 +192,6 @@
 		float: left;
 	}
 
-	.bck-encabezado {
-		color: #3a7f2c;
-		border: 3px solid #d4f1ba;
-		border-radius: 10px;
-		font-weight: 600;
-		padding-left: 5px;
-	}
-
-	.bck-sub-encabezado {
-		color: #3a7f2c;
-		font-weight: bold;
-	}
-
 	.content ol {
 		list-style-type: none;
 	}
@@ -327,12 +314,12 @@ a:focus {
 #actividad .content .texto_curso .bck-ul-1 li,
 #actividad .popover-content .bck-ul-1 li,
 #actividad .content .workspace ul li .bck-ul-1 li {
-	padding-left: 31px;
+	padding-left: 28px;
     position: relative;
     list-style: none;
     margin-bottom: 10px;
     color: #3ac62a;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 100;
 }
 
@@ -341,8 +328,8 @@ a:focus {
 #actividad .popover-content ul.bck-ul-1 li:before,
 #actividad .content .workspace ul li ul.bck-ul-1 li:before {
 	content: "";
-    height: 20px;
-    width: 20px;
+    height: 12px;
+    width: 18px;
     background-color: transparent;
     color: #333;
     border-radius: 0;
@@ -350,8 +337,8 @@ a:focus {
     background-image: url(images/puntos-verdes-faquxdemo.png);
     background-repeat: no-repeat;
     background-size: contain;
-    margin-left: -30px;
-    margin-top: 7px;
+    margin-left: -28px;
+    margin-top: 8px;
 }
 
 
