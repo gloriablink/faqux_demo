@@ -296,14 +296,14 @@ a:focus {
 }
 
 /*-----------------------------TITULOS-------------------------------------------*/
-.bck-encabezado-puntosverdes {
+.bck-titulo1 {
     color: #3ac62a;
     font-size: 22px;
     font-weight: 100;
     padding-left: 50px;
 }
 
-.bck-encabezado-puntosverdes:before {
+.bck-titulo1:before {
     content: "";
     padding: 10px;
     position: absolute;
