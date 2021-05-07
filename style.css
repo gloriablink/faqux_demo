@@ -265,6 +265,16 @@
     color: #3ac62a;
 }
 
+#indice .units ul li {
+    background: #cbcbcb;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    border-radius: 0px;
+    margin-bottom: 8px;
+    padding: 0;
+}
+
+
 /*-------------------------------------ENLACES-----------------------------------*/
 
 a {
