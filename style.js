@@ -18,19 +18,19 @@
 				{ name: 'Título 02', element: 'h4', attributes: { 'class': 'bck-titulo2' } },
 				{ name: 'Título 03', element: 'p', attributes: { 'class': 'bck-titulo3' } },
 
-				{ name: 'Enfasis rosa', element: 'span', attributes: { 'class': 'bck-enfasis-rosa' } },
-				{ name: 'Enfasis azul', element: 'span', attributes: { 'class': 'bck-enfasis-azul' } },
-				{ name: 'Enfasis verde', element: 'span', attributes: { 'class': 'bck-enfasis-verde' } },
-				{ name: 'Enfasis naranja', element: 'span', attributes: { 'class': 'bck-enfasis-naranja' } },
-				{ name: 'Enfasis morado', element: 'span', attributes: { 'class': 'bck-enfasis-morado' } },
-				{ name: 'Enfasis naranja-borde', element: 'span', attributes: { 'class': 'bck-enfasis-naranja-borde' } },
-				{ name: 'Enfasis + verde', element: 'span', attributes: { 'class': 'bck-enfasis-masverde' } },
-				{ name: 'Enfasis verde negrita', element: 'span', attributes: { 'class': 'bck-enfasis-verdenegrita' } },
+				{ name: 'Énfasis rosa', element: 'span', attributes: { 'class': 'bck-enfasis-rosa' } },
+				{ name: 'Énfasis azul', element: 'span', attributes: { 'class': 'bck-enfasis-azul' } },
+				{ name: 'Énfasis verde', element: 'span', attributes: { 'class': 'bck-enfasis-verde' } },
+				{ name: 'Énfasis naranja', element: 'span', attributes: { 'class': 'bck-enfasis-naranja' } },
+				{ name: 'Énfasis morado', element: 'span', attributes: { 'class': 'bck-enfasis-morado' } },
+				{ name: 'Énfasis naranja-borde', element: 'span', attributes: { 'class': 'bck-enfasis-naranja-borde' } },
+				{ name: 'Énfasis más verde', element: 'span', attributes: { 'class': 'bck-enfasis-masverde' } },
+				{ name: 'Énfasis verde negrita', element: 'span', attributes: { 'class': 'bck-enfasis-verdenegrita' } },
 
 				{ name: 'Caja 01', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
+				{ name: 'Caja 02', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } },
 
-				{ name: 'Icono +', element: 'span', attributes: { 'class': 'icon icon-mas' } },
-				{ name: 'Icono logo blink', element: 'span', attributes: { 'class': 'icon icon-logoblink' } },
+				{ name: 'Icono más', element: 'span', attributes: { 'class': 'icon icon-mas' } },
 
 				{ name: 'Tabla centrada', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-center'} }
 			]
