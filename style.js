@@ -17,6 +17,8 @@
 				{ name: 'Título 01', element: 'h4', attributes: { 'class': 'bck-titulo1' } },
 				{ name: 'Título 02', element: 'h4', attributes: { 'class': 'bck-titulo2' } },
 				{ name: 'Título 03', element: 'p', attributes: { 'class': 'bck-titulo3' } },
+				
+				{ name: 'Lista desordenada 01', element: 'ul', attributes: { 'class': 'bck-ul-1' } },
 
 				{ name: 'Énfasis rosa', element: 'span', attributes: { 'class': 'bck-enfasis-rosa' } },
 				{ name: 'Énfasis azul', element: 'span', attributes: { 'class': 'bck-enfasis-azul' } },
