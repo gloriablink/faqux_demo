@@ -470,6 +470,10 @@ a:focus {
 		max-width: 50%
 	}
 
+	.bck-box-2 {
+		left: -10.7%;
+	}
+
 }
 
 @media screen and (max-width: 480px) {
