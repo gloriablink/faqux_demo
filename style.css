@@ -456,8 +456,13 @@ a:focus {
 
 @media screen and (max-width: 1024px) {
 
+	.content_type_clase_faquxdemo .slide-wrapper, 
+	.class_slide .layout {
+		padding-left: 30px;
+	}
+
 	.bck-box-2 {
-  	  margin-top: -15%;
+  	  margin-top: -14%;
 	}
 
 }
@@ -479,8 +484,12 @@ a:focus {
 	}
 
 	.bck-box-2 {
-		left: -11.4%;
-		width: 116.6%;
+		left: -5.4%;
+   		width: 110.6%;
+	}
+
+	#actividad .class_slide {
+		padding-left: 20px;
 	}
 
 }
@@ -520,8 +529,12 @@ a:focus {
 
 @media screen and (max-width: 375px) {
 	.bck-box-2 {
-		 width: 170.3%;
-		 left: -44.7%;
-		 margin-top: -68%;
+		 width: 134.3%;
+   		 left: -13.7%;
+   		 margin-top: -68%;
+	}
+
+	#actividad .class_slide {
+		padding-left: 0px;
 	}
 }
