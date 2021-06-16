@@ -467,6 +467,13 @@ a:focus {
 
 }
 
+@media screen and (max-width: 812px) {
+	.bck-box-2 {
+		left: -14.7%;
+    	width: 133.3%;
+	}
+}
+
 
 
 @media screen and (max-width: 768px) {
