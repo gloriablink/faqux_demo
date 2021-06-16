@@ -392,10 +392,14 @@ a:focus {
 
 /*------------------------CAJA 2-------------------------------*/
 .bck-box-2 {
-    margin-top: -16.6%;
+    margin-top: -16%;
     position: relative;
     left: -22.7%;
     width: 139.3%;
+}
+
+.bck-box-2 .bck-i-fullscreen-wrapper {
+    padding: 0;
 }
 
 /*----------------------ICONOS------------------------------------------*/
